@@ -1,4 +1,4 @@
-﻿#Hybrid Recomender Systems
+#Hybrid Recomender Systems
 
 I created a restaurant recomender system with a command line interface which uses machine learning to utilise user preferences and a hybrid approach consisting of collaberative and content based filtering with the K-nearest neighbours shallow learning method.
 
